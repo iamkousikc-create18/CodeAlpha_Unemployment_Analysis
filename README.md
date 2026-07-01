@@ -126,17 +126,6 @@ This project demonstrates a complete data analysis workflow, including data prep
 
 **Kousik Chakraborty**
 
-Data Analyst Aspirant
-
-- Python
-- SQL
-- Excel
-- Power BI
-- Data Visualization
-- Machine Learning (Basics)
-
----
-
 ## ⭐ Acknowledgement
 
 This project was completed as part of the **CodeAlpha Data Science Internship**.
